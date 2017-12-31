@@ -1,9 +1,5 @@
-- https://github.com/alibaba/AliSQL/graphs/contributors
-
-- https://github.com/alibaba/AliSQLBackup/graphs/contributors
-
-- https://github.com/alibaba/ApsaraCache/graphs/contributors
-
-- https://github.com/alibaba/nodejs-with-snapshot/graphs/contributors
-
-- https://github.com/alibaba/TrafficServer/graphs/contributors
+- https://github.com/alibaba/AliSQL/graphs/contributors?from=2008-05-18&to=2009-12-31&type=c
+- https://github.com/alibaba/AliSQLBackup/graphs/contributors?from=2008-05-18&to=2009-12-31&type=c
+- https://github.com/alibaba/ApsaraCache/graphs/contributors?from=2008-05-18&to=2009-12-31&type=c
+- https://github.com/alibaba/nodejs-with-snapshot/graphs/contributors?from=2008-05-18&to=2009-12-31&type=c
+- https://github.com/alibaba/TrafficServer/graphs/contributors?from=2008-05-18&to=2009-12-31&type=c
